@@ -1,8 +1,4 @@
-<h3 align=>Hi, I'm </h3>
-
-
-
-# It's me » PⓄק𝒆𝕐𝔼 « <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
