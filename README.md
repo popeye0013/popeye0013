@@ -9,7 +9,8 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=popeye0013&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=dark&layout=compact)](https://github.com/popeye0013/github-readme-stats)
 
