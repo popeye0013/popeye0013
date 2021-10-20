@@ -6,7 +6,6 @@
 
 
 
-[![Header](https://raw.githubusercontent.com/popeye0013/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&langs_count=5&theme=dark)]()
