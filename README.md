@@ -10,7 +10,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=popeye0013&theme=highcontrast)](https://github.com/popeye0013/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=popeye0013&theme=onedark)](https://github.com/popeye0013/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=highcontrast&layout=compact)](https://github.com/popeye0013/github-readme-stats)
