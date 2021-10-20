@@ -4,9 +4,6 @@
 
 
 
-<a href=”https://www.instagram.com/doktordres/">![dhe_popeye](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
