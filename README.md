@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm » PⓄק𝒆𝕐𝔼 «</h1>
+<h3 align="center">➥𝘼𝙩𝙩𝙞𝙩𝙪𝙙𝙚 𝙄𝙨 𝙈𝙮 𝙃𝙖𝙗𝙞𝙩 𝙉𝙙 𝙄 𝘾𝙖𝙉'𝙏 𝘾𝙝𝙖𝙣𝙜𝙚 𝙄𝙩😝</h3>
 
 
 
@@ -11,7 +13,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=popeye0013&theme=react-dark)](https://github.com/popeye0013/github-readme-activity-graph)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=dark&layout=compact)](https://github.com/popeye0013/github-readme-stats)
