@@ -4,7 +4,8 @@
 
 
 
-<a href=”https://www.instagram.com/dhe_popeye/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<a href=”https://www.instagram.com/doktordres/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
