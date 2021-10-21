@@ -14,9 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=dark)](https://git.io/streak-stats)
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-
-
 #### Profile Views
   
 ![Visitor Count](https://profile-counter.glitch.me/{popeye0013}/count.svg) 
