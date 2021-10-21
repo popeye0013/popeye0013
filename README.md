@@ -1,4 +1,4 @@
-![gif](programming.gif)
+
 
 ## **Hey, I'm » PⓄק𝒆𝕐𝔼 «** 👋
 
