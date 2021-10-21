@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![alt text](https://{https://drive.google.com/file/d/10XRDnnwTD_EgzUyLWrqKxV61qU-2vr4R/view?usp=drivesdk} “add your alt text”)
+
 
 
 
