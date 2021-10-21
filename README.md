@@ -7,7 +7,7 @@
 
 
 
-#### Github Profile
+#### Github Stats
 
 [![dhe_popeye's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=blue-green)](https://github.com/popeye0013/github-readme-stats)
 
