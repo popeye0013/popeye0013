@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm PⓄקZ</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=popeye0013&label=Profile%20views&color=0e75b6&style=flat" alt="popeye0013" /> </p>
-
+# 💫 About Me:
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [Codex Lab](www.codexlab.xyz)
@@ -13,8 +11,6 @@
 
 - ⚡Programmer (noun) **Someone who solves a problem you didn't know you had, in a way you don't understand.😉**
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
