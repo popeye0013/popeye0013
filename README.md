@@ -20,16 +20,16 @@
 
 ### 👀 Connect with me:
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/popeye0013" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/#" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100070451970088" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/im_popeye__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -47,8 +47,6 @@
 
 ### Spotify Listening🎶
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=default&bar_color_cover=true)  
-
-https://visitcount.itsvg.in/api?id=popeye0013&icon=0&color=0)](https://visitcount.itsvg.in
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
