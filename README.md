@@ -1,10 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/programming.gif" align="center" style="width: 100%" />
 </div>  
 
-
-[![programming.gif](https://i.postimg.cc/htm8BDVw/programming.gif)](https://postimg.cc/VJY09cGB)
-  
 
 ### About Me:
 
