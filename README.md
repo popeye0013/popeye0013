@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [Codex Lab](https://codexlab.xyz)
-
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **popeye0013@duck.com**
 
 - ⚡ Fact **Someone who solves a problem you didn't know you had, in a way you don't understand.😉**
