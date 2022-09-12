@@ -5,14 +5,11 @@
 
 
 ### About Me:
-
-- 🥂 I'm Akash, **Freelance Developer**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **popeye0013@duck.com**
-
-- ⚡ Fact **Someone who solves a problem you didn't know you had, in a way you don't understand.😉**
+I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
+- 🔭 I’m currently working on Android Apps
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: tech, memes, anime
+- 😄 Pronouns: he/him
 
 ### 👀 Connect with me:
 <div align="center">
