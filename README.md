@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm PⓄקZ</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Akash, Freelance Full-Stack Developer</div>  
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Flutter**
