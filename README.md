@@ -43,7 +43,8 @@
 
 
 ### Spotify Listening🎶
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)]]
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true" /></div> 
+<br/>
 
 
 ### Random Dev Quote✍️
