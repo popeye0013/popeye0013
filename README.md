@@ -48,6 +48,31 @@
 ### Spotify Listening🎶
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=default&bar_color_cover=true)  
 
+https://visitcount.itsvg.in/api?id=popeye0013&icon=0&color=0)](https://visitcount.itsvg.in
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ### Random Dev Quote✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
