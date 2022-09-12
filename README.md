@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **popeye0013@duck.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡Programmer (noun) **Someone who solves a problem you didn't know you had, in a way you don't understand.😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
