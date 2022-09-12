@@ -12,7 +12,7 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 - 😄 Pronouns: he/him
 
 ### 👀 Connect with me:
-<div align="center">
+<div 
 <a href="https://github.com/popeye0013" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
