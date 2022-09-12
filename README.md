@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 👨‍💻 All of my projects are available at [codexlab.xyz](codexlab.xyz)
+
 - 📫 How to reach me **popeye0013@duck.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/Akash-S-Lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashslal" height="30" width="40" /></a>
+<a href="https://fb.com/akash-s-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash-s-lal" height="30" width="40" /></a>
 <a href="https://instagram.com/im_popeye__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_popeye__" height="30" width="40" /></a>
 </p>
 
@@ -21,8 +25,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=popeye0013&show_icons=true&locale=en&layout=compact" alt="popeye0013" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popeye0013&show_icons=true&locale=en" alt="popeye0013" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popeye0013&show_icons=true&locale=en&layout=compact" alt="popeye0013" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&" alt="popeye0013" /></p>
