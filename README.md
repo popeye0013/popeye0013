@@ -17,7 +17,7 @@
 
 - ⚡ Fact **Someone who solves a problem you didn't know you had, in a way you don't understand.😉**
 
-### Connect with me👀
+### 👀 Connect with me:
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
