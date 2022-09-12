@@ -51,10 +51,6 @@
 
 
 ### Spotify Listening🎶
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>
-<br/>
-
-
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=default&bar_color_cover=true)  
 
 
