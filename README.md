@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [codexlab.xyz](codexlab.xyz)
 
+- 💬 Ask me about **Android**
+
 - 📫 How to reach me **popeye0013@duck.com**
 
 - ⚡ Fun fact **I think i am funny**
