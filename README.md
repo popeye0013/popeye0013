@@ -1,7 +1,3 @@
-
-## ***Hey, I'm » PⓄק𝒆𝕐𝔼 «*** 👋
-
-
 <h1 align="center">Hi 👋, I'm PⓄקZ</h1>
 <h3 align="center">A passionate developer from India</h3>
 
