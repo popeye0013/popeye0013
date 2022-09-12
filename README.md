@@ -3,6 +3,12 @@
 </div>  
 
 
+<div align="center">
+<img src="https://github.com/popeye0013/popeye0013/blob/main/pops.gif" align="center" style="width: 100%" />
+</div>  
+
+
+
 ### About Me:
 
 - 🥂 I'm Akash, **Freelance Developer**
