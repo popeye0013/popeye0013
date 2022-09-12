@@ -5,7 +5,7 @@
 
 ### About Me:
 
-- 🥂 I'm Akash,**Freelance Developer**
+- 🥂 I'm Akash, **Freelance Developer**
 
 - 🌱 I’m currently learning **Flutter**
 
