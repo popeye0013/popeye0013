@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [www.codexlab.xyz](www.codexlab.xyz)
+- 👨‍💻 All of my projects are available at [Codex Lab](www.codexlab.xyz)
 
 - 💬 Ask me about **Android**
 
