@@ -38,9 +38,9 @@
 
 
 ### 📉GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
 
 ### Random Dev Quote✍️
