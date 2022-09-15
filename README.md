@@ -7,7 +7,7 @@
 ### About Me:
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
 - 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Flutter, C++
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 
