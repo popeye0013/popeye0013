@@ -6,12 +6,13 @@
 
 ### About Me:
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
-- 🔭 I’m currently working on Meo-ify
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about: tech, memes, anime
-- 😄 Pronouns: he/him
+- 🧩 I’m currently working on Meo-ify.
+- 🧑🏻‍💻 I’m currently learning Flutter.
+- 💗 I'm looking to collaborate if you have a great ldea!
+- 💭 Ask me about: tech, memes, anime..
+- 😹 Pronouns: he/him
 
-### 👀 Connect with me:
+### 👁️ Connect with me:
 <div 
 <a href="https://github.com/popeye0013" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -46,5 +47,5 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-### You can help me by Donating💰
+### You can help me by Donating💸
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/popeye0013) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/popeye0013) 
