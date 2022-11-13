@@ -5,6 +5,7 @@
 
 
 <h3 align="left">About Me:</h3>
+
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
 - I’m currently working on **Meo-ily**.
 - I’m currently learning Flutter.
