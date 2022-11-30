@@ -46,4 +46,7 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 
 
 
-<p align="left"> <a href="https://twitter.com/popeye0013_" target="blank"><img src="https://img.shields.io/twitter/follow/popeye0013_?logo=twitter&style=for-the-badge" alt="popeye0013_" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popeye0013&show_icons=true&locale=en&layout=compact" alt="popeye0013" /></p>
+
+
+
