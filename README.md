@@ -9,7 +9,7 @@
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
 - I’m currently working on **Meo-ily**.
 - I’m currently learning Flutter.
-- You can contact me at [popeye0013@duck.com](popeye0013@duck.com)
+- You can contact me at [popeye0013@duck.com](https://popeye0013@duck.com)
 - I'm lookin to collaborate if u have a great idea!
 - Ask me about: tech, memes, anime
 - Pronouns: he/him
