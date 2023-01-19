@@ -35,7 +35,8 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 
 <h3 align="left">GitHub Stats:</h3>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=popeye0013&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&langs_count=5&theme=tokyonight)]()
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
