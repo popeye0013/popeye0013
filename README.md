@@ -35,10 +35,9 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=popeye0013&show_icons=true&locale=en&layout=compact" alt="popeye0013" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popeye0013&show_icons=true&locale=en" alt="popeye0013" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&" alt="popeye0013" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
