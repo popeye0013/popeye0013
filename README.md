@@ -42,7 +42,6 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 
 <h3 align="left">GitHub Stats:</h3>
 
-![popeye0013's Stats](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![popeye0013's Streak](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=vue-dark&hide_border=true)
 
 <h3 align="left">Support:</h3>
