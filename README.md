@@ -19,6 +19,10 @@
   <img align="left" alt="Akash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
 - I’m currently working on **Meo-ify**.
 - I'm lookin to collaborate if u have a great idea!
