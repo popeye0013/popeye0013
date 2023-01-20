@@ -1,13 +1,7 @@
 
 <div align="center">
-<img src="https://github.com/popeye0013/popeye0013/blob/main/programming.gif" align="center" style="width: 100%" />
+<img src="[https://github.com/popeye0013/popeye0013/blob/main/programming.gif](https://giphy.com/embed/xUA7bdpLxQhsSQdyog)" align="center" style="width: 100%" />
 </div>  
-
-
-
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
-
-
 
 
 <h3 align="left">About Me:</h3>
