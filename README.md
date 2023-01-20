@@ -1,4 +1,4 @@
-<h1>width="30"/> Hey! fellow devs  :wave: </h1>
+<h1>Hey! fellow devs :wave: </h1>
 
 <a href="https://www.instagram.com/cryptx.dev">
   <img align="left" alt="Akash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
