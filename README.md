@@ -17,7 +17,11 @@
 
 <br />
 
-I'm Akash :), who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
+I'm Akash :)
+
+<br />
+
+Who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
 - I’m currently working on **Meo-ify**.
 - I'm lookin to collaborate if u have a great idea!
 - Ask me about: tech, memes, anime.
