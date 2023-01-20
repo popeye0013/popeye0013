@@ -39,7 +39,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 <h3 align="left">GitHub Stats:</h3>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=popeye0013&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&no-bg=true&no-frame=true&column=4&theme=merko)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
