@@ -42,4 +42,3 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
-
