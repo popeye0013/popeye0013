@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="[https://github.com/popeye0013/popeye0013/blob/main/programming.gif](https://giphy.com/embed/xUA7bdpLxQhsSQdyog)" align="center" style="width: 100%" />
+<img src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" align="center" style="width: 100%" />
 </div>  
 
 
