@@ -37,10 +37,9 @@ I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and op
 ![popeye0013's Stats](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![popeye0013's Streak](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=vue-dark&hide_border=true)
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
-
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
