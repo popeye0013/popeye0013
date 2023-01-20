@@ -6,6 +6,19 @@
 
 <h3 align="left">About Me:</h3>
 
+<a href="https://www.instagram.com/cryptx.dev">
+  <img align="left" alt="Akash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="#">
+  <img align="left" alt="Akash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/popeye0013">
+  <img align="left" alt="Akash | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/popeye0013">
+  <img align="left" alt="Akash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
 - I’m currently working on **Meo-ify**.
 - I'm lookin to collaborate if u have a great idea!
