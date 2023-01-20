@@ -12,7 +12,7 @@
 <a href="#">
   <img align="left" alt="Akash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/popeye0013">
+<a href="https://twitter.com/popeye0013_">
   <img align="left" alt="Akash | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/popeye0013">
