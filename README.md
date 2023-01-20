@@ -47,6 +47,19 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 **If you like what i do, maybe consider buying me a coffee 🥺👉👈**
 
+
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+		current_work = 'Writing code'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+
   
 <h3 align="left">My todolist stats:</h3>
 
