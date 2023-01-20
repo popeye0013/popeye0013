@@ -45,8 +45,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
 
 <br />
-
-**If you like what i do, maybe consider buying me a coffee 🥺👉👈**
+If you like what i do, maybe consider buying me a coffee 🥺👉👈
 
   
 <h3 align="left">My todolist stats:</h3>
