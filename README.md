@@ -48,12 +48,3 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 If you like what i do, maybe consider buying me a coffee 🥺👉👈
 
   
-<h3 align="left">My todolist stats:</h3>
-
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
