@@ -47,13 +47,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=popeye0013&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
   
 <h3 align="left">My todolist stats:</h3>
 
