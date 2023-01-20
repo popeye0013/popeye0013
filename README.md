@@ -45,7 +45,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 <br />
 
-If you like what i do, maybe consider buying me a coffee 🥺👉👈
+**If you like what i do, maybe consider buying me a coffee 🥺👉👈**
 
   
 <h3 align="left">My todolist stats:</h3>
