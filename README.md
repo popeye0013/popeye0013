@@ -4,6 +4,12 @@
 </div>  
 
 
+
+<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+
+
+
+
 <h3 align="left">About Me:</h3>
 
 I'm 𝘼𝙠𝙖𝙨𝙝🤙, who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
