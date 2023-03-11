@@ -42,7 +42,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 ![popeye0013's Streak](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=material-palenight&hide_border=true)
 
-![popeye0013's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![popeye0013's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popeye0013&theme=material-palenight&show_icons=true&hide_border=true)
 
 
 <h3 align="left">Support:</h3>
