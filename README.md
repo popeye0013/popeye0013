@@ -53,5 +53,5 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 
 <br/>
-Donate to me so I can be more enthusiastic
+# Donate to me so I can be more enthusiastic
   
