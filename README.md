@@ -36,6 +36,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
 
 
+
 <h3 align="left">GitHub Stats:</h3>
 
 ![popeye0013's Stats](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
@@ -45,7 +46,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/popeye0013"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="popeye0013" /></a></p><br><br>
-
+Donate to me so I can be more enthusiastic
 <br />
 
   
