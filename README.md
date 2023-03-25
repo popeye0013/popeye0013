@@ -51,6 +51,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 Donate to me so I can be more enthusiastic
 
-<br />
+<br/>
 
   
