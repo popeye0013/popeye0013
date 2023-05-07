@@ -24,11 +24,11 @@
 
 **I'm Akash :)**
 <br />
-Who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- Ask me about: tech, memes, anime.
+Who is passionate about mobile technologies and open source. I'm also a self procliamed developer.
 - Pronouns: he/him
+- Ask me about: tech, memes, anime.
+- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 
 <h3 align="left">Languages and Tools:</h3>
 
