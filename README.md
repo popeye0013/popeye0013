@@ -44,9 +44,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 <h3 align="left">GitHub Stats:</h3>
 
-![popeye0013's Stats](https://github-readme-stats.vercel.app/api?username=popeye0013&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-
-![popeye0013's Streak](https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=material-palenight&hide_border=true)
+https://github-readme-activity-graph.cyclic.app/graph?username=popeye0013&theme=react-dark
 
 
 <h3 align="left">Support:</h3>
