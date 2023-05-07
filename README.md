@@ -13,11 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt=" Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h1 align="center">  ![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)   </h1>
 
 
-
-![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)
   
   
 <br />
