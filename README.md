@@ -22,7 +22,7 @@
 
 <br />
 
-***I'm Akash :)***
+## ***I'm Akash :)***
 <br />
 ***Who is passionate about mobile technologies and open source. I'm also a self procliamed developer.***
 - ***Pronouns: he/him***
