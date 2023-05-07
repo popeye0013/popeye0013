@@ -45,7 +45,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 <h3 align="left">GitHub Stats:</h3>
 
 <a>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=popeye0013&theme=github_dark"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=popeye0013&theme=tokyonight"/>
   </a>
 
 
