@@ -16,7 +16,7 @@
 
 
 
-![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=flat)
+![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)
 
 <br />
 
