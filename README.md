@@ -41,7 +41,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
 
 
-
 <h3 align="left">Profile Summary Card:</h3>
 
 <a>
@@ -55,6 +54,10 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
   </a>
 
 
+
+<a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=tokyonight"/>
+  </a>
 
 
 
