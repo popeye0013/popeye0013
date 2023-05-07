@@ -38,6 +38,7 @@
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
 
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&redirect=true)
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)
 
 ## ***Profile Summary Card:***
