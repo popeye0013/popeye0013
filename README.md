@@ -47,12 +47,14 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 <a>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=popeye0013&theme=tokyonight"/>
   </a>
+<a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=tokyonight"/>
+  </a>
 
 
 
 
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
 
 
 <h3 align="left">Support:</h3>
