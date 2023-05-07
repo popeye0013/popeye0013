@@ -13,7 +13,7 @@
   <img align="left" alt="Akash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=popeye0013)
+![](https://komarev.com/ghpvc/?username=popeye0013&color=green)
 
 <br />
 
