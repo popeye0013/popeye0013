@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/popeye0013">
   <img align="left" alt="Akash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=popeye0013)
 
 <br />
