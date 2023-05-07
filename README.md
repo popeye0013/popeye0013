@@ -12,10 +12,10 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt=" Badge"/>
   </a>
+  
+  ![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)
+  
 </div>
-<h1 align="center">  
-  ![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)   
-</h1>
 
 
   
