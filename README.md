@@ -15,9 +15,10 @@
 </div>
 
 
-
+<p align="center">
 ![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)
-
+</p>
+  
 <br />
 
 **I'm Akash :)**
