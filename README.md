@@ -47,6 +47,12 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=tokyonight"/>
   </a>
   
+  <h3 align="left">Streak Stats:</h3>
+
+<a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=tokyonight"/>
+  </a>
+  
 <h3 align="left">GitHub Stats:</h3>
 
 <a>
@@ -54,10 +60,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
   </a>
 
 
-
-<a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=tokyonight"/>
-  </a>
 
 
 
