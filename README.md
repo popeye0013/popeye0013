@@ -14,7 +14,7 @@
 </a>
 
 ![](https://img.shields.io/static/v1?label=Profile+views&message=3899&color=green)
-![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge)
+
 <br />
 
 **I'm Akash :)**
