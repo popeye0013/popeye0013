@@ -25,8 +25,8 @@
 **I'm Akash :)**
 <br />
 Who is passionate about mobile technologies and open source. I'm also a self procliamed developer. 
-- I’m currently working on **Meo-ify**.
-- In my free time, I solve problems on GeeksforGeeks and read tech articles
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - Ask me about: tech, memes, anime.
 - Pronouns: he/him
 
