@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-  ![](https://img.shields.io/static/v1?label=Profile+views&message=3,377&color=green&style=for-the-badge)
+  ![](https://img.shields.io/static/v1?label=Profile+views&message=4,632&color=green&style=for-the-badge)
   
 </div>
 
