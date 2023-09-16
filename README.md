@@ -62,12 +62,6 @@ href="https://instagram.com/cryptx.dev">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=popeye0013&theme=github&utcOffset=-5">
 </p>
   
-## ***GitHub Stats:***
-
-<a>
-    <img src="https://github-stats-alpha.vercel.app/api?username=popeye0013&theme=github&utcOffset=-5"/>
-  </a>
-
 
 ## ***Support:***
 
