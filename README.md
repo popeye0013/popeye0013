@@ -28,6 +28,7 @@ href="https://instagram.com/cryptx.dev">
 ***Who is passionate about mobile technologies and open source. I'm also a self procliamed developer.***
 - ***Pronouns: he/him***
 - ***Ask me about: tech, memes, anime.***
+- ***Creating bugs since 2019***
 - ***In my free time, I solve problems on GeeksforGeeks and read tech articles.***
 
 
