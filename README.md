@@ -56,14 +56,16 @@ href="https://instagram.com/cryptx.dev">
   
 ## ***Streak Stats:***
 
-<a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=popeye0013&theme=tokyonight"/>
-  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=popeye0013&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=popeye0013&theme=github&utcOffset=-5">
+</p>
   
 ## ***GitHub Stats:***
 
 <a>
-    <img src="https://github-stats-alpha.vercel.app/api?username=popeye0013&theme=github"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=popeye0013&theme=github&utcOffset=-5"/>
   </a>
 
 
