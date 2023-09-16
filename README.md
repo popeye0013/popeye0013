@@ -63,7 +63,7 @@ href="https://instagram.com/cryptx.dev">
 ## ***GitHub Stats:***
 
 <a>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=popeye0013&theme=tokyonight"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=popeye0013"/>
   </a>
 
 
