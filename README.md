@@ -51,7 +51,7 @@ href="https://instagram.com/cryptx.dev">
 ## ***Profile Summary Card:***
 
 <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=github"/>
   </a>
   
 ## ***Streak Stats:***
@@ -63,7 +63,7 @@ href="https://instagram.com/cryptx.dev">
 ## ***GitHub Stats:***
 
 <a>
-    <img src="https://github-stats-alpha.vercel.app/api?username=popeye0013"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=popeye0013&theme=github"/>
   </a>
 
 
