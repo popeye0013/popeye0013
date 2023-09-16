@@ -56,11 +56,10 @@ href="https://instagram.com/cryptx.dev">
   
 ## ***Streak Stats:***
 
-</p>
-<p align="center">
+<a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=popeye0013&theme=github">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=popeye0013&theme=github&utcOffset=-5">
-</p>
+</a>
   
 
 ## ***Support:***
