@@ -32,9 +32,11 @@ href="https://instagram.com/cryptx.dev">
 - ***In my free time, I solve problems on GeeksforGeeks and read tech articles.***
 - 
 ###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ###
 
 ## ***Languages and Tools***
