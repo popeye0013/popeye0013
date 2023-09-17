@@ -38,7 +38,7 @@ href="https://instagram.com/cryptx.dev">
 ## ***Profile Summary Card:***
 
 <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=githubdark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=github"/>
   </a>
   
 ## ***Streak Stats:***
