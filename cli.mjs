@@ -59,18 +59,15 @@ const questions = [
 ];
 
 const data = {
-  name: chalk.hex(pt.yellow).bold("                  Akash s lal"),
+  name: chalk.hex(pt.yellow).bold("Akash s lal"),
   work: chalk.hex(pt.red).bold("Android Developer"),
-  github:
-    chalk.hex(pt.green)("popeye0013\n"),
-  linkedin:
-    chalk.hex(pt.green)("popeye0013\n"),
+  github: chalk.hex(pt.green)("popeye0013\n"),
+  linkedin: chalk.hex(pt.green)("popeye0013\n"),
   web: chalk.blue("http://popeye0013.github.io/xkx.exe"),
-  labelWork: chalk.bold("    Work:"),
-  labelGitHub: chalk.bold("  Instagram:"),
+  labelWork: chalk.bold("Work:"),
+  labelGitHub: chalk.bold("Instagram:"),
   labelLinkedIn: chalk.bold("LinkedIn:"),
-  labelWeb: chalk.bold("     Web:"),
-  labelCard: chalk.bold("       Card:"),
+  labelWeb: chalk.bold("Web:") 
 };
 
 const me = boxen(
@@ -80,10 +77,8 @@ const me = boxen(
     `${data.labelGitHub}  ${data.github}`,
     `${data.labelLinkedIn}  ${data.linkedin}`,
     `${data.labelWeb}  ${data.web}\n`,
-    `${data.labelCard}  ${data.npx}\n`,
     `${chalk.italic("I am currently looking for new opportunities,")}`,
     `${chalk.italic("Feel free to email me and checkout my profile")}`,
-
     `${chalk.italic("also this project is open source.")}`,
     `${chalk.blue.bold("cmd/ctrl + click")} on the links above to open`,
   ].join("\n"),
