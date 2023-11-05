@@ -33,7 +33,7 @@ href="https://instagram.com/cryptx.dev">
 
 ## ***Languages and Tools:***
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,androidstudio,vscode,arduino,cpp,codepen,discord,github,kotlin,linux,pr,py,replit,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,cpp,kotlin,linux,pr,py)](https://skillicons.dev)
 
 ## ***Profile Summary Card:***
 
