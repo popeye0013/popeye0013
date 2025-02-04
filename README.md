@@ -24,7 +24,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,cpp,kotlin,linux,py&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,kotlin,py&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Profile Summary Card:
 
