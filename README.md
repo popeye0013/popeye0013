@@ -24,13 +24,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 ## Languages and Tools:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodium,ubuntu" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=vscodium,ubuntu,windows&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,java,kotlin,py,ubuntu,vscodium&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Profile Summary Card:
 
