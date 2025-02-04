@@ -40,3 +40,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
   
 
 ## Support:
+<p align="center">
+<a href="https://github.com/popeye0013/popeye0013/blob/main/donate/donate.md" alt="Donate shield"><img src="https://img.shields.io/badge/-Donate-red?logo=undertale" width="100"/></a>
+</p>
