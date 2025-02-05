@@ -34,13 +34,11 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
   
 ## Streak Stats:
 
-<p align="center">
 <a href="https://github.com/popeye0013">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=popeye0013&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=popeye0013&theme=github_dark&utcOffset=-5" />
 </a>
-</p>
 
 ## Support:
-<p align="center">
-<a href="https://github.com/popeye0013/popeye0013/blob/main/donate/donate.md" alt="Donate shield"><img src="https://img.shields.io/badge/-Donate-red?logo=undertale" width="100"/></a>
-</p>
+
+<a href="https://github.com/popeye0013/popeye0013/blob/main/donate/donate.md" alt="Donate shield"><img src="https://img.shields.io/badge/-Donate-red?logo=undertale" width="100"/>
+</a>
