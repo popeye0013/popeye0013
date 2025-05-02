@@ -26,10 +26,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 [![My Skills](https://skillicons.dev/icons?i=html,java,kotlin,py,ubuntu,vscodium&theme=dark&perline=10)](https://skillicons.dev)
 
-## Spotify Listening:
-
-
-
 ## Profile Summary Card:
 
 <a>
