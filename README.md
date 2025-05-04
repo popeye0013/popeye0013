@@ -30,8 +30,6 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 ![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false))
 
-https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&redirect=true][
-
 ## Profile Summary Card:
 
 <a>
