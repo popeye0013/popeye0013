@@ -28,7 +28,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 
 ## Spotify Listening:
 
-![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=true)
+![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=true)
 
 ## Profile Summary Card:
 
