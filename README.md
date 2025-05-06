@@ -6,25 +6,19 @@
 
 
 
-<p align="center">
-<a href="https://"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram">
-</a>
-<p align="center">
-
-
-
-
-  <a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
+<p align="center"
+<a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-  
-  <a href="https://instagram.com/xkx.exe">
+  <a href="https://telegram.org/popeye0013"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+  <a 
+href="https://instagram.com/xkx.exe">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
   ![](https://komarev.com/ghpvc/?username=popeye0013&abbreviated=true&style=for-the-badge)
   
+<p align="center">
 </div>
 <br/>
 
