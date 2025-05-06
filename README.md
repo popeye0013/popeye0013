@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  
-  <a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a>
 
   <a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
@@ -18,7 +14,6 @@
   ![](https://komarev.com/ghpvc/?username=popeye0013&abbreviated=true&style=for-the-badge)
   
 </div>
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 <br/>
 
 𝙸'𝚖 𝙰𝚔𝚊𝚜𝚑 :)
