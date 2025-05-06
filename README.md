@@ -22,7 +22,7 @@ Who is passionate about mobile technologies and open source. I'm also a self pro
 - Creating bugs since 2019
 - In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-## Languages and Tools:
+## 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
 [![My Skills](https://skillicons.dev/icons?i=html,java,kotlin,py,ubuntu,vscodium&theme=dark&perline=10)](https://skillicons.dev)
 
