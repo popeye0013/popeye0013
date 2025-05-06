@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
- <a ![](https://komarev.com/ghpvc/?username=popeye0013&style=flat-square)
- </a>
+  ![](https://komarev.com/ghpvc/?username=popeye0013&abbreviated=true&style=flat-square)
+  
 </div>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 <br/>
 
 𝙸'𝚖 𝙰𝚔𝚊𝚜𝚑 :)
