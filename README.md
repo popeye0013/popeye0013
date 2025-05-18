@@ -4,8 +4,6 @@
 <div id="badges" align="center">
 
 
-
-
 <p align="center"
 <a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
@@ -28,8 +26,7 @@ I'm a self-proclaimed Android developer with a strong background in technology a
 - Pronouns: he/him
 - Ask me about: Tech, Memes, Anime.
 - Creating bugs since 2019.
-<br/>
-In my free time, I solve problems on GeeksforGeeks & read tech articles.
+<br/>In my free time, I solve problems on GeeksforGeeks & read tech articles.
 
 ### Languages & Tools:
 
