@@ -28,7 +28,7 @@ I'm a self-proclaimed Android developer with a strong background in technology a
 - Pronouns: he/him
 - Ask me about: Tech, Memes, Anime.
 - Creating bugs since 2019.
-In my free time, I solve problems on GeeksforGeeks & read tech articles.
+- In my free time, I solve problems on GeeksforGeeks & read tech articles.
 
 
 
