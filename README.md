@@ -20,7 +20,7 @@ href="https://instagram.com/xkx.exe">
 </div>
 <br/>
 
- I'm Akash🧃
+## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Akash🧃
 <br/>
 I'm a self-proclaimed Android developer with a strong background in technology and open source.
 - Pronouns: he/him
