@@ -19,8 +19,8 @@ href="https://instagram.com/xkx.exe">
 <p align="center">
 </div>
 <br/>
-
-### I'm Akash🧃 - I'm a self-proclaimed Android developer with a strong background in technology and open source.
+ 
+ **I'm Akash🧃** - I'm a self-proclaimed Android developer with a strong background in technology and open source.
 - Pronouns: he/him
 - Ask me about: Tech, Memes, Anime.
 - Creating bugs since 2019.
