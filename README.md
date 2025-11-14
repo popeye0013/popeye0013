@@ -42,7 +42,7 @@ I'm a self-proclaimed Android developer with a strong background in technology a
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=github_dark"/>
   </a>
   
-### Streak Stats:
+## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> Streak Stats:
 
 <a href="https://github.com/popeye0013">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=popeye0013&theme=github_dark" />
