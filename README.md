@@ -36,7 +36,7 @@ I'm a self-proclaimed Android developer with a strong background in technology a
 
 ![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=true)
 
-### Profile Summary Card:
+## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Memo.webp" alt="Memo" width="25" height="25" /> Profile Summary Card:
 
 <a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popeye0013&theme=github_dark"/>
