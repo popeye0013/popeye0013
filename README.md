@@ -28,7 +28,7 @@ I'm a self-proclaimed Android developer with a strong background in technology a
 - Creating bugs since 2019.
 - In my free time, I solve problems on GeeksforGeeks & read tech articles.
 
-### Languages & Tools:
+## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Technologist.webp" alt="Technologist" width="25" height="25" /> Languages & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,java,kotlin,py,ubuntu,vscodium&theme=dark&perline=10)](https://skillicons.dev)
 
