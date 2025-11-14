@@ -14,7 +14,7 @@ href="https://instagram.com/xkx.exe">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-  ![](https://komarev.com/ghpvc/?username=popeye0013&abbreviated=true&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=popeye0013&abbreviated=true&style=flat)
   
 <p align="center">
 </div>
