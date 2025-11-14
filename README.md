@@ -32,7 +32,7 @@ I'm a self-proclaimed Android developer with a strong background in technology a
 
 [![My Skills](https://skillicons.dev/icons?i=html,java,kotlin,py,ubuntu,vscodium&theme=dark&perline=10)](https://skillicons.dev)
 
-### Spotify Listening:
+## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Star.webp" alt="Star" width="25" height="25" /> Spotify Listening:
 
 ![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31x2v6m525zvzoemfu6rvg7eyide&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=true)
 
