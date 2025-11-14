@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github.com/popeye0013/popeye0013/blob/main/me0.gif" width="100"/>
 </div>
 <div id="badges" align="center">
