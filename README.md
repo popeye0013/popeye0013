@@ -55,5 +55,5 @@ I'm a self-proclaimed Android developer with a strong background in technology a
 <a href="https://github.com/popeye0013/popeye0013/blob/main/donate/donate.md" alt="Donate shield"><img src="https://img.shields.io/badge/-Donate-red?logo=undertale" width="100"/>
 </a>
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/BnwyAq0ynQNif94qAC" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyajNzbGM1MGVnb3E0cWdxN3VwNDNmYTV2c3p6czYyNXc3M2N0NHplbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BnwyAq0ynQNif94qAC/giphy.gif" width="100"/>
 </div>
