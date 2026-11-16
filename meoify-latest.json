@@ -1,15 +1,14 @@
 {
-  "version": "1.0.14",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.14",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.14/Meoify-1.0.14.apk",
+  "version": "1.0.15",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.15",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.15/Meoify-1.0.15.apk",
   "published": "2026-11-16",
   "changelog": [
-    "Restored the classic Meoify header with the greeting, avatar, search field and filter chips",
-    "Added a Quick picks rail above Jump back in with trending songs worth playing now",
-    "Jump back in tiles no longer show a play icon on the right",
-    "Redesigned Made for you as wide artwork cards with a gradient overlay, title, subtitle and play button",
-    "Redesigned Trending now as a ranked card grid with #1-#10 badges",
-    "Made for you now skips the playlist already shown in the featured card",
-    "Updated the home loading skeleton to match the new sections"
+    "The featured playlist now leads the Home page",
+    "Jump back in follows the featured card, with Quick picks right below it",
+    "Restored the 1.0.12 card style: no hairline borders and the original corner radii",
+    "Restored the 1.0.12 full-artwork featured playlist card with its Play button",
+    "Made for you, New releases, Top artists and Charts are back to the clean 1.0.12 rails",
+    "Made for you still skips the playlist already shown in the featured card"
   ]
 }
