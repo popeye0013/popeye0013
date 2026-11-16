@@ -1,13 +1,12 @@
 {
-  "version": "1.0.7",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.7",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.7/Meoify-1.0.7.apk",
+  "version": "1.0.8",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.8",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.8/Meoify-1.0.8.apk",
   "published": "2026-11-16",
   "changelog": [
-    "New update popup on the home screen after 3 seconds when a newer release is available",
-    "Changelog shown as bullets with a Download button",
-    "Skip button remembers the skipped version until a newer release",
-    "Transparent bottom bar and mini player background",
-    "Playback crash fix on Android 8-12"
+    "Redesigned audio quality picker: Auto, Lossless (Hi-Res), Standard (320 kbps), YouTube Music and Data Saver",
+    "Auto adapts the stream to Wi-Fi or mobile data",
+    "Quality changes apply to the next track immediately",
+    "Now Playing quality pill shows the selected quality and opens the full list"
   ]
 }
