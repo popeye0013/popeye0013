@@ -1,15 +1,15 @@
 {
-  "version": "1.0.12",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.12",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.12/Meoify-1.0.12.apk",
+  "version": "1.0.13",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.13",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.13/Meoify-1.0.13.apk",
   "published": "2026-11-16",
   "changelog": [
-    "Home now shows Trending now as artwork cards instead of a plain song list",
-    "Jump back in tiles are now rounded cards with a play hint and now-playing highlight",
-    "Library playlists now use artwork cards in both grid and list layouts",
-    "Playlist cards now include the rename and delete menu in grid view",
-    "Library songs and recently played now use the same card style as playlists and search",
-    "Now-playing tracks are highlighted in Home and Library cards",
-    "Liked Songs now uses the rounded card style with a chevron"
+    "New home header with a soft accent glow, MEOIFY wordmark, time-of-day greeting and avatar",
+    "Search is now a rounded field with an accent search icon",
+    "Mood shortcuts are now neutral pills instead of preset filter chips",
+    "Jump back in moved to the top of Home and gained a Play all action",
+    "New featured card with cover artwork, a tinted gradient and a Play button",
+    "Home sections now use consistent 18-20dp rounded cards with a hairline border",
+    "Updated home loading skeleton to match the new layout"
   ]
 }
