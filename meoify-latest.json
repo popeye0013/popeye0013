@@ -1,14 +1,15 @@
 {
-  "version": "1.0.10",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.10",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.10/Meoify-1.0.10.apk",
+  "version": "1.0.11",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.11",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.11/Meoify-1.0.11.apk",
   "published": "2026-11-16",
   "changelog": [
-    "Fixed some songs stopping instead of playing when a stream link expired",
-    "Unavailable tracks now skip to the next playable song automatically",
-    "Fixed playback on tracks whose stream URL was rejected by YouTube's CDN",
-    "Added a second extraction path when the YouTube Music page cannot be read",
-    "Artwork now shows a fallback image instead of a blank tile for songs without catalogue covers",
-    "Album art now loads faster in busy lists and retries the original image size"
+    "Lyrics now load when you switch tracks instead of showing \"unavailable\"",
+    "Lyrics now prefer the studio recording over live, karaoke and cover versions",
+    "Synced lyrics now respect offset tags instead of drifting from the audio",
+    "Lyrics now support multiple timestamps per line and 1-3 digit fractions",
+    "The lyrics view now opens at the current line and follows the song while paused",
+    "Synced lyrics now highlight within 250 ms of the audio",
+    "Failed lyrics lookups now retry instead of staying empty for the session"
   ]
 }
