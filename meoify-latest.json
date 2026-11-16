@@ -1,6 +1,13 @@
 {
-  "version": "1.0.6",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.6",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.6/Meoify-1.0.6.apk",
-  "published": "2026-11-16"
+  "version": "1.0.7",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.7",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.7/Meoify-1.0.7.apk",
+  "published": "2026-11-16",
+  "changelog": [
+    "New update popup on the home screen after 3 seconds when a newer release is available",
+    "Changelog shown as bullets with a Download button",
+    "Skip button remembers the skipped version until a newer release",
+    "Transparent bottom bar and mini player background",
+    "Playback crash fix on Android 8-12"
+  ]
 }
