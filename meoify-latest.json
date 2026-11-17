@@ -1,11 +1,10 @@
 {
-  "version": "1.0.23",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.23",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.23/Meoify-1.0.23.apk",
+  "version": "1.0.24",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.24",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.24/Meoify-1.0.24.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Share the currently playing lyric line as an image card",
-    "Direct share to Instagram Stories when available, with a system share sheet fallback",
-    "Card uses album art, lyric text, track info and Meoify branding"
+    "Fixed a crash when tapping the share icon from the lyrics screen",
+    "Added error handling and a guarded artwork decode for lyric sharing"
   ]
 }
