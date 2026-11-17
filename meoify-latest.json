@@ -1,10 +1,10 @@
 {
-  "version": "1.0.28",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.28",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.28/Meoify-1.0.28.apk",
+  "version": "1.0.29",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.29",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.29/Meoify-1.0.29.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Swipe down on the artwork to return to the mini player",
-    "Smoother swipe animations with finger-following feedback and spring-back"
+    "Swipe up on the mini player opens the player exactly like tapping it",
+    "Swipe down on the artwork closes the player exactly like tapping the down arrow"
   ]
 }
