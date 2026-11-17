@@ -1,11 +1,10 @@
 {
-  "version": "1.0.26",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.26",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.26/Meoify-1.0.26.apk",
+  "version": "1.0.25",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.25",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.25/Meoify-1.0.25.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Spotify-style lyrics share: choose lines, style and format",
-    "Share lyric cards to Instagram Stories or any social/chat app",
-    "Save lyric cards to the gallery"
+    "Fixed lyric sharing failure caused by hardware bitmaps",
+    "Converted decoded artwork to a software bitmap before rendering the share card"
   ]
 }
