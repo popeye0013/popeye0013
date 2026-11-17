@@ -1,14 +1,14 @@
 {
-  "version": "1.0.15",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.15",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.15/Meoify-1.0.15.apk",
-  "published": "2026-11-16",
+  "version": "1.0.16",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.16",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.16/Meoify-1.0.16.apk",
+  "published": "2026-11-17",
   "changelog": [
-    "The featured playlist now leads the Home page",
-    "Jump back in follows the featured card, with Quick picks right below it",
-    "Restored the 1.0.12 card style: no hairline borders and the original corner radii",
-    "Restored the 1.0.12 full-artwork featured playlist card with its Play button",
-    "Made for you, New releases, Top artists and Charts are back to the clean 1.0.12 rails",
-    "Made for you still skips the playlist already shown in the featured card"
+    "Made for you now uses self-contained mix cards with a palette-tinted gradient, the title over the artwork and a play button",
+    "New releases cards carry a NEW badge on the artwork",
+    "Top artists cards get a gradient ring and a cleaner name and artist label",
+    "Redesigned the Now playing three-dot menu with a header showing the current song and artwork",
+    "Menu options now use icon tiles with short descriptions",
+    "Sleep timer is highlighted and shows the remaining minutes when active"
   ]
 }
