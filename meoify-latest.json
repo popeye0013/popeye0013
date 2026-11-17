@@ -1,10 +1,10 @@
 {
-  "version": "1.0.31",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.31",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.31/Meoify-1.0.31.apk",
+  "version": "1.0.32",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.32",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.32/Meoify-1.0.32.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Share cards now show a large square artwork like the now-playing player",
+    "Share card artwork now matches the now-playing player size",
     "Applies to both the song card and the lyrics card"
   ]
 }
