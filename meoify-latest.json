@@ -1,13 +1,12 @@
 {
-  "version": "1.0.21",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.21",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.21/Meoify-1.0.21.apk",
+  "version": "1.0.22",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.22",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.22/Meoify-1.0.22.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Sync to YouTube Music history, Clear listening history and Restore now each use a distinct icon",
-    "Clear recent searches uses an icon matching the other Settings rows",
-    "The Played count is more resilient for signed-in accounts, falling back to locally tracked listens when account history is unavailable",
-    "Meoify no longer stays active in the background unless audio is playing or the app is in recent apps/foreground",
-    "A paused session stops the background service promptly instead of lingering in the notification shade"
+    "Removed Likes, Playlists and Played stats from the profile card in Settings",
+    "Redesigned the profile section to focus on account details and actions",
+    "Removed the UPI ID display and copy icon from the support card",
+    "Tapping Copy now shows the UPI ID in a toast instead of a UPI ID copied message"
   ]
 }
