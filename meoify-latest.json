@@ -1,14 +1,14 @@
 {
-  "version": "1.0.19",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.19",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.19/Meoify-1.0.19.apk",
+  "version": "1.0.20",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.20",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.20/Meoify-1.0.20.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Playback now survives swiping the app from recents, including while the song is paused",
-    "The media session, queue and notification stay alive in the background instead of closing",
-    "Added Like and Shuffle actions to the lockscreen and notification media controls",
-    "The notification heart updates instantly and writes likes back to YouTube Music when signed in",
-    "The player seekbar now has an animated wave that freezes while paused",
-    "Now Playing and Lyrics follow light, dark and dynamic color themes instead of forcing a dark background"
+    "Audio quality in Settings now uses the same Material icon treatment as the other settings rows",
+    "Tapping a lyric line seeks without drawing a rectangular ripple behind the line",
+    "Reopening Meoify restores the last song, queue and position even after the app was stopped",
+    "The Played count on a signed-in YouTube Music account refreshes when Settings opens and follows listens as they sync",
+    "Pausing and clearing Meoify from recents stops the background service instead of leaving it running",
+    "Playback controls reconnect automatically when the service was stopped while Meoify was in the background"
   ]
 }
