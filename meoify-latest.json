@@ -1,14 +1,12 @@
 {
-  "version": "1.0.16",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.16",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.16/Meoify-1.0.16.apk",
+  "version": "1.0.17",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.17",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.17/Meoify-1.0.17.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Made for you now uses self-contained mix cards with a palette-tinted gradient, the title over the artwork and a play button",
-    "New releases cards carry a NEW badge on the artwork",
-    "Top artists cards get a gradient ring and a cleaner name and artist label",
-    "Redesigned the Now playing three-dot menu with a header showing the current song and artwork",
-    "Menu options now use icon tiles with short descriptions",
-    "Sleep timer is highlighted and shows the remaining minutes when active"
+    "Quick picks and Trending now no longer disappear when YouTube Music omits the Quick picks shelf",
+    "Home now reads Quick picks from both carousel and plain shelf layouts",
+    "Chart top songs top up Quick picks when it is missing or short, so both sections keep their songs",
+    "Added parser tests for the plain shelf layout and the chart-song fallback"
   ]
 }
