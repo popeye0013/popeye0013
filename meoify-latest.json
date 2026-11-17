@@ -1,12 +1,11 @@
 {
-  "version": "1.0.17",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.17",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.17/Meoify-1.0.17.apk",
+  "version": "1.0.18",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v1.0.18",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v1.0.18/Meoify-1.0.18.apk",
   "published": "2026-11-17",
   "changelog": [
-    "Quick picks and Trending now no longer disappear when YouTube Music omits the Quick picks shelf",
-    "Home now reads Quick picks from both carousel and plain shelf layouts",
-    "Chart top songs top up Quick picks when it is missing or short, so both sections keep their songs",
-    "Added parser tests for the plain shelf layout and the chart-song fallback"
+    "Removed the extra gap above the Settings header caused by the status-bar inset being applied twice",
+    "Settings now owns its top inset like detail pages, so the back button and title sit directly below the status bar",
+    "No other screens change"
   ]
 }
