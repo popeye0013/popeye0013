@@ -1,10 +1,11 @@
 {
-  "version": "2.0.10",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.10",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.10/Meoify-2.0.10.apk",
+  "version": "2.0.11",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.11",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.11/Meoify-2.0.11.apk",
   "published": "2026-11-18",
-  "sha256": "87c14bd616695b46fe9433584df42065092986a66ba8961025c8bd0205475f22",
+  "sha256": "8bc79882632ff73ee1496a8402e72e37d00875a2dba7697c4fa036d69abb9a83",
   "changelog": [
-    "Library playlist lists now use the card-based UI."
+    "Recently played section on Library now uses card-based UI.",
+    "Playlist header back and more-options buttons are symmetrically aligned with identical circular touch targets."
   ]
 }
