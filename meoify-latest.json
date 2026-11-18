@@ -1,11 +1,10 @@
 {
-  "version": "2.0.9",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.9",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.9/Meoify-2.0.9.apk",
+  "version": "2.0.10",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.10",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.10/Meoify-2.0.10.apk",
   "published": "2026-11-18",
-  "sha256": "1198118858d67b07020103340033a8b309187a1f1f80568cf16f4569e96ee8fa",
+  "sha256": "87c14bd616695b46fe9433584df42065092986a66ba8961025c8bd0205475f22",
   "changelog": [
-    "Restores the 1.0.6-style queue UI.",
-    "Restores the 1.0.6-style Library UI."
+    "Library playlist lists now use the card-based UI."
   ]
 }
