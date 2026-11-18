@@ -1,10 +1,11 @@
 {
-  "version": "2.0.2",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.2",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.2/Meoify-2.0.2.apk",
+  "version": "2.0.3",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.3",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.3/Meoify-2.0.3.apk",
   "published": "2026-11-18",
   "changelog": [
-    "Added swipe navigation between Home, Search, and Library.",
-    "Bottom navigation taps still work."
+    "Made switching tabs smoother with swipe and tap.",
+    "Preloaded adjacent tabs for instant swipes.",
+    "Shortened the tap transition."
   ]
 }
