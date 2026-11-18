@@ -1,11 +1,11 @@
 {
-  "version": "2.0.11",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.11",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.11/Meoify-2.0.11.apk",
+  "version": "2.0.12",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.12",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.12/Meoify-2.0.12.apk",
   "published": "2026-11-18",
-  "sha256": "8bc79882632ff73ee1496a8402e72e37d00875a2dba7697c4fa036d69abb9a83",
+  "sha256": "d3b85ba493ad1e8cca76054e8ddb3e7707fbe2356ed18480288a931b9c693bb0",
   "changelog": [
-    "Recently played section on Library now uses card-based UI.",
-    "Playlist header back and more-options buttons are symmetrically aligned with identical circular touch targets."
+    "Hold and drag songs in the queue to change play order.",
+    "Swipe right on a queue song to remove it."
   ]
 }
