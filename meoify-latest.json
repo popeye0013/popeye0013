@@ -1,11 +1,13 @@
 {
-  "version": "2.0.4",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.4",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.4/Meoify-2.0.4.apk",
+  "version": "2.0.5",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.5",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.5/Meoify-2.0.5.apk",
   "published": "2026-11-18",
   "changelog": [
-    "Added transition effects to the navigation bar.",
-    "The selected tab now slides between items.",
-    "Icons animate when selected and tapped."
+    "Playing a song from Search now queues a same-genre mix instead of the next search result.",
+    "The selected song starts immediately; its mix is added in the background.",
+    "Falls back to the remaining search results if the mix can't be loaded.",
+    "Late mix responses are ignored after you skip or start another song.",
+    "Duplicate and unavailable tracks are skipped."
   ]
 }
