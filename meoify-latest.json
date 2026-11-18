@@ -1,9 +1,10 @@
 {
-  "version": "2.0.1",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.1",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.1/Meoify-2.0.1.apk",
+  "version": "2.0.2",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.2",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.2/Meoify-2.0.2.apk",
   "published": "2026-11-18",
   "changelog": [
-    "Fixed playback stopping when the screen turns off."
+    "Added swipe navigation between Home, Search, and Library.",
+    "Bottom navigation taps still work."
   ]
 }
