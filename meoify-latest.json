@@ -1,12 +1,12 @@
 {
-  "version": "2.0.15",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.15",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.15/Meoify-2.0.15.apk",
+  "version": "2.0.16",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.16",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.16/Meoify-2.0.16.apk",
   "published": "2026-11-18",
-  "sha256": "155ef01fd27b6bf9d2bab6549c4c919894df8be1a0fe3563dc21679e71193d46",
+  "sha256": "af39d2619e210b446fbd1dee888766f1eda5986110d5bdb070c13dffe3fc3dae",
   "changelog": [
-    "Search bar now says \"Search\".",
-    "Library playlist section renamed to \"Playlists\".",
-    "About text simplified to \"YouTube Music, the way you want it.\""
+    "Real 320 kbps AAC and Hi-Res FLAC via a configurable hifi-api server (Settings > Playback > Lossless server).",
+    "Falls back to the best YouTube Music stream when no server is configured or it fails.",
+    "Renamed the native tier to Balanced (256 kbps)."
   ]
 }
