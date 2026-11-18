@@ -1,10 +1,9 @@
 {
-  "version": "2.0.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.0/Meoify-2.0.0.apk",
-  "published": "2026-11-17",
+  "version": "2.0.1",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.1",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.1/Meoify-2.0.1.apk",
+  "published": "2026-11-18",
   "changelog": [
-    "Thank you for using Meoify.",
-    "Don't forget to support the developer. (Yeah, it's me😂)"
+    "Fixed playback stopping when the screen turns off."
   ]
 }
