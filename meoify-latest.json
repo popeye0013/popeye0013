@@ -1,10 +1,12 @@
 {
-  "version": "2.0.14",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.14",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.14/Meoify-2.0.14.apk",
+  "version": "2.0.15",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.15",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.15/Meoify-2.0.15.apk",
   "published": "2026-11-18",
-  "sha256": "16191df18d71f6103f67e573f8e8433be0d7acd7b12bc667c233a47c4624ba5c",
+  "sha256": "155ef01fd27b6bf9d2bab6549c4c919894df8be1a0fe3563dc21679e71193d46",
   "changelog": [
-    "Fixed playback pausing when reordering or removing songs in the queue."
+    "Search bar now says \"Search\".",
+    "Library playlist section renamed to \"Playlists\".",
+    "About text simplified to \"YouTube Music, the way you want it.\""
   ]
 }
