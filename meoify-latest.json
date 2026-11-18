@@ -1,13 +1,15 @@
 {
-  "version": "2.0.6",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.6",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.6/Meoify-2.0.6.apk",
+  "version": "2.0.8",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.8",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.8/Meoify-2.0.8.apk",
   "published": "2026-11-18",
+  "sha256": "82a5aa75a0469050b33166d7643199ba37d5545e050c2b24d91c9cd6d7a46b46",
   "changelog": [
-    "Swipe right on a playlist song to add it to the queue without leaving the list.",
-    "The Now Playing three-dot menu is now a modal bottom sheet.",
-    "Song details show title, artist, album, duration, plays, explicit flag, video ID and source.",
-    "Album and artist rows in Song details open their pages.",
-    "The sheet keeps Like, Queue, Share, Sleep, Play next and Add to queue actions."
+    "Playlist header three-dot is now a round button opening a modal action sheet.",
+    "Playlist action sheet includes Play next, Share, Shuffle play, Start mix, Edit playlist, Add to queue, Save to playlist and Delete playlist.",
+    "YouTube Music-style playlist editing: title, description, privacy and comments.",
+    "Signed-in Library shows only the synced YouTube Music Liked Songs row.",
+    "YouTube Music playlists title removed from Library.",
+    "Liked music settings hint removed from Liked Songs."
   ]
 }
