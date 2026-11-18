@@ -1,11 +1,10 @@
 {
-  "version": "2.0.13",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.13",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.13/Meoify-2.0.13.apk",
+  "version": "2.0.14",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.14",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.14/Meoify-2.0.14.apk",
   "published": "2026-11-18",
-  "sha256": "e43a0337204f0175a7a9170e0364e1f8cc0c00872d638324948f2fac00c56b20",
+  "sha256": "16191df18d71f6103f67e573f8e8433be0d7acd7b12bc667c233a47c4624ba5c",
   "changelog": [
-    "Swipe up from the bottom of Now Playing to view the queue.",
-    "Remove UI now appears only while swiping a queue song."
+    "Fixed playback pausing when reordering or removing songs in the queue."
   ]
 }
