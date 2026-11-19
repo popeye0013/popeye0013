@@ -1,12 +1,12 @@
 {
-  "version": "2.0.20",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.20",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.20/Meoify-2.0.20.apk",
+  "version": "2.0.21",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.21",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.21/Meoify-2.0.21.apk",
   "published": "2026-11-19",
-  "sha256": "2b3c1804ad498b40df8084396517eeacc23c06a077167d580c7afd5c569ae018",
+  "sha256": "4de563bf978f20f0f1e3d2b90e7db5aad3df0e2483ba23c2d5005dbfa1f8d7ca",
   "changelog": [
-    "Bluetooth battery reporting now follows connect/disconnect and polls every 30s.",
-    "Fixed duplicate connected-device entries.",
-    "Updated 320 server links to the Hi-fi repository."
+    "Filters phantom/OEM audio outputs from the connected-devices list.",
+    "Redesigned Bluetooth battery indicator in Now Playing.",
+    "Removed Server setup section from README."
   ]
 }
