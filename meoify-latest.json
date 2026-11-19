@@ -1,11 +1,11 @@
 {
-  "version": "2.0.32",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.32",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.32/Meoify-2.0.32.apk",
+  "version": "3.0.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.0.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.0.0/Meoify-3.0.0.apk",
   "published": "2026-11-19",
-  "sha256": "eac17e4e282c9022539f561b3c8117ddba6f5f070ddf0550bcf6fde799dcf03a",
+  "sha256": "6c9a7cc164345c2d7c12105d981e4fa5e46c51695cbeaa8fa9256a9c3dc41380",
   "changelog": [
-    "Added View all updates in update prompts to read changelogs before downloading.",
-    "Added Recent updates in Settings to browse release history anytime."
+    "Major 3.0.0 release.",
+    "Changelog highlights the installed version and latest release with badges."
   ]
 }
