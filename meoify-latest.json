@@ -1,11 +1,11 @@
 {
-  "version": "2.0.23",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.23",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.23/Meoify-2.0.23.apk",
+  "version": "2.0.24",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.24",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.24/Meoify-2.0.24.apk",
   "published": "2026-11-19",
-  "sha256": "a22df2ef660c4f43e71bf736d4dd89d585b0af811a60874c738e1a47b9071de8",
+  "sha256": "0f89fe717b26f93d108658860a1d3f4a0de6c16842e8f51bd985c2b531f857d0",
   "changelog": [
-    "Deduplicates Bluetooth outputs by MAC address.",
-    "Filters the phone's own Bluetooth routing entry."
+    "Simplified Volume & output sheet to volume + Bluetooth battery badge.",
+    "Now Playing shows Bluetooth icon with battery only over Bluetooth."
   ]
 }
