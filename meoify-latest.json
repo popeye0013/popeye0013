@@ -1,12 +1,12 @@
 {
-  "version": "2.0.25",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.25",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.25/Meoify-2.0.25.apk",
+  "version": "2.0.26",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.26",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.26/Meoify-2.0.26.apk",
   "published": "2026-11-19",
-  "sha256": "996b6fdf9a7ee44375d125b08bdeea922e31bc31a345bd539d95eba68598256c",
+  "sha256": "cec27ae78cdfbcd3f4cd368380ad00bba9882e8e863db89efca42bd46964e325",
   "changelog": [
-    "Rewrote lossless server dialog with credits.",
-    "Added high refresh rate support.",
-    "Redesigned README with icons and pill badges."
+    "Added real-time synced lyrics preview.",
+    "Rewrote lossless server dialog copy.",
+    "Skips liked-songs-only in Picked for you."
   ]
 }
