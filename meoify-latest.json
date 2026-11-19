@@ -1,11 +1,11 @@
 {
-  "version": "2.0.22",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.22",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.22/Meoify-2.0.22.apk",
+  "version": "2.0.23",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.23",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.23/Meoify-2.0.23.apk",
   "published": "2026-11-19",
-  "sha256": "dea2279073d4e7949ab8a186d07de22aaa570bb8a032fb63651be0fb955b8904",
+  "sha256": "a22df2ef660c4f43e71bf736d4dd89d585b0af811a60874c738e1a47b9071de8",
   "changelog": [
-    "Collapses audio outputs that share a product name.",
-    "Finalises the Material 3 Bluetooth battery indicator in Now Playing."
+    "Deduplicates Bluetooth outputs by MAC address.",
+    "Filters the phone's own Bluetooth routing entry."
   ]
 }
