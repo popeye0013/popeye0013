@@ -1,11 +1,12 @@
 {
-  "version": "2.0.24",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.24",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.24/Meoify-2.0.24.apk",
+  "version": "2.0.25",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.25",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.25/Meoify-2.0.25.apk",
   "published": "2026-11-19",
-  "sha256": "0f89fe717b26f93d108658860a1d3f4a0de6c16842e8f51bd985c2b531f857d0",
+  "sha256": "996b6fdf9a7ee44375d125b08bdeea922e31bc31a345bd539d95eba68598256c",
   "changelog": [
-    "Simplified Volume & output sheet to volume + Bluetooth battery badge.",
-    "Now Playing shows Bluetooth icon with battery only over Bluetooth."
+    "Rewrote lossless server dialog with credits.",
+    "Added high refresh rate support.",
+    "Redesigned README with icons and pill badges."
   ]
 }
