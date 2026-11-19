@@ -1,10 +1,11 @@
 {
-  "version": "2.0.31",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.31",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.31/Meoify-2.0.31.apk",
+  "version": "2.0.32",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.32",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.32/Meoify-2.0.32.apk",
   "published": "2026-11-19",
-  "sha256": "6f2bafc7eb437c32aebfca10dcc54e093329e0feb99c2c6801de35466e8f83d7",
+  "sha256": "eac17e4e282c9022539f561b3c8117ddba6f5f070ddf0550bcf6fde799dcf03a",
   "changelog": [
-    "Song details now open as a dedicated dialog from the Now Playing menu."
+    "Added View all updates in update prompts to read changelogs before downloading.",
+    "Added Recent updates in Settings to browse release history anytime."
   ]
 }
