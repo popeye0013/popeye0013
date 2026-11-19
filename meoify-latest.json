@@ -1,12 +1,10 @@
 {
-  "version": "2.0.26",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.26",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.26/Meoify-2.0.26.apk",
+  "version": "2.0.27",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.27",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.27/Meoify-2.0.27.apk",
   "published": "2026-11-19",
-  "sha256": "cec27ae78cdfbcd3f4cd368380ad00bba9882e8e863db89efca42bd46964e325",
+  "sha256": "523996633cfd8e7ae92dcc8d6446f00b4a71fa57456daf52f2e4ab7144c239df",
   "changelog": [
-    "Added real-time synced lyrics preview.",
-    "Rewrote lossless server dialog copy.",
-    "Skips liked-songs-only in Picked for you."
+    "Added marquee animation to the track title on Now Playing."
   ]
 }
