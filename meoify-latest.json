@@ -1,13 +1,12 @@
 {
-  "version": "2.0.19",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.19",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.19/Meoify-2.0.19.apk",
+  "version": "2.0.20",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.20",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.20/Meoify-2.0.20.apk",
   "published": "2026-11-19",
-  "sha256": "4fff400a3ea5272b992e685beafe0e5452f40497265d455e91bbdf1e92d84b7a",
+  "sha256": "2b3c1804ad498b40df8084396517eeacc23c06a077167d580c7afd5c569ae018",
   "changelog": [
-    "Lossless server now also accepts the Meoify 320 kbps Cloudflare Worker.",
-    "Fixed duplicate Phone speaker entries in connected devices.",
-    "Bluetooth output shows a battery icon and percentage in Now Playing.",
-    "README and Settings include a Deploy your own 320 kbps server guide."
+    "Bluetooth battery reporting now follows connect/disconnect and polls every 30s.",
+    "Fixed duplicate connected-device entries.",
+    "Updated 320 server links to the Hi-fi repository."
   ]
 }
