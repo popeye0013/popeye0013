@@ -1,10 +1,11 @@
 {
-  "version": "2.0.27",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.27",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.27/Meoify-2.0.27.apk",
+  "version": "2.0.28",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.28",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.28/Meoify-2.0.28.apk",
   "published": "2026-11-19",
-  "sha256": "523996633cfd8e7ae92dcc8d6446f00b4a71fa57456daf52f2e4ab7144c239df",
+  "sha256": "25796e92647bd6f3c1c7e6ebd341539e6161b895639494e99abdfd2baab3b64e",
   "changelog": [
-    "Added marquee animation to the track title on Now Playing."
+    "Added Lyrics action to Now Playing menu.",
+    "Removed redundant like button from menu header."
   ]
 }
