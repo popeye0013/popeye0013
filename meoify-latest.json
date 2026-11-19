@@ -1,12 +1,10 @@
 {
-  "version": "2.0.30",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.30",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.30/Meoify-2.0.30.apk",
+  "version": "2.0.31",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.31",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.31/Meoify-2.0.31.apk",
   "published": "2026-11-19",
-  "sha256": "c9ce063741e45b1c7fedb36df809facbc281447bddc4e23346f9d538fe9baebc",
+  "sha256": "6f2bafc7eb437c32aebfca10dcc54e093329e0feb99c2c6801de35466e8f83d7",
   "changelog": [
-    "Added permanent search box in Playlists.",
-    "Removed Picked for you from home screen.",
-    "Added Listen Together (beta) feature."
+    "Song details now open as a dedicated dialog from the Now Playing menu."
   ]
 }
