@@ -1,12 +1,11 @@
 {
-  "version": "2.0.21",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.21",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.21/Meoify-2.0.21.apk",
+  "version": "2.0.22",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.22",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.22/Meoify-2.0.22.apk",
   "published": "2026-11-19",
-  "sha256": "4de563bf978f20f0f1e3d2b90e7db5aad3df0e2483ba23c2d5005dbfa1f8d7ca",
+  "sha256": "dea2279073d4e7949ab8a186d07de22aaa570bb8a032fb63651be0fb955b8904",
   "changelog": [
-    "Filters phantom/OEM audio outputs from the connected-devices list.",
-    "Redesigned Bluetooth battery indicator in Now Playing.",
-    "Removed Server setup section from README."
+    "Collapses audio outputs that share a product name.",
+    "Finalises the Material 3 Bluetooth battery indicator in Now Playing."
   ]
 }
