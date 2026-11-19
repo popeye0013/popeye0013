@@ -1,11 +1,12 @@
 {
-  "version": "2.0.28",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.28",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.28/Meoify-2.0.28.apk",
+  "version": "2.0.29",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v2.0.29",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v2.0.29/Meoify-2.0.29.apk",
   "published": "2026-11-19",
-  "sha256": "25796e92647bd6f3c1c7e6ebd341539e6161b895639494e99abdfd2baab3b64e",
+  "sha256": "97096896011ba11d752d1d5fbec08644e99f9ce82e9a205bbd09e8d0e1cd1f5b",
   "changelog": [
-    "Added Lyrics action to Now Playing menu.",
-    "Removed redundant like button from menu header."
+    "Added search icon and filtering in Playlists.",
+    "Removed Picked for you from home screen.",
+    "Lyrics action toggles lyrics preview on Now Playing."
   ]
 }
