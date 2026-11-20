@@ -1,15 +1,15 @@
 {
-  "version": "3.2.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.2.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.2.0/Meoify-3.2.0.apk",
+  "version": "3.3.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.3.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.3.0/Meoify-3.3.0.apk",
   "published": "2026-11-20",
-  "sha256": "50b0a28f87144d34def017a1e55915e94a9fc9df737775ab49b655da8539267a",
+  "sha256": "06a1dc70d8d6a2aba212016e472bdc485fc13fdb1b2b0ca7e6a5a71a0dba5589",
   "changelog": [
-    "Home now shows every YouTube Music shelf title, plus nine personalised sections after New releases.",
-    "Library + opens a bottom sheet with Create playlist, Import playlist and Folder.",
-    "The track menu now has Remove from this playlist for local and YouTube Music playlists.",
-    "The Queue has a clear-upcoming action that keeps the current song playing.",
-    "Artwork now loads from Spotify, then Apple iTunes, then YouTube Music.",
-    "Folder is listed in the Library sheet and is coming soon."
+    "Library now has a Sort by control and grid/list toggle below the filter chips.",
+    "The Library search icon now searches inside your library instead of opening global search.",
+    "Pure black theme is no longer enabled by default.",
+    "Added Last.fm scrobbling with now-playing updates on track change and scrobbles after a qualifying listen.",
+    "Smart mixes moved to the Library + sheet with selectable mood and artist pills.",
+    "Lossless server name now suggests \"FLAC / AAC Server\"."
   ]
 }
