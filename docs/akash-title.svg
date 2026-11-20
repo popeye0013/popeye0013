@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 100" width="340" height="100" role="img" aria-label="Akash">
+  <defs>
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF4D67"/>
+      <stop offset="55%" stop-color="#FF7A9C"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-80%" width="220%" height="260%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="wideBlur"/>
+      <feFlood flood-color="#FF4D67" flood-opacity="0.75" result="pink"/>
+      <feComposite in="pink" in2="wideBlur" operator="in" result="outerGlow"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="tightBlur"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.55" result="white"/>
+      <feComposite in="white" in2="tightBlur" operator="in" result="innerGlow"/>
+      <feMerge>
+        <feMergeNode in="outerGlow"/>
+        <feMergeNode in="innerGlow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="170" y="70" text-anchor="middle" font-family="'Google Sans','Product Sans',Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-1" fill="url(#titleGradient)" filter="url(#glow)">Akash</text>
+</svg>
