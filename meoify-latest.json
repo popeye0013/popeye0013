@@ -1,11 +1,13 @@
 {
-  "version": "3.0.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.0.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.0.0/Meoify-3.0.0.apk",
-  "published": "2026-11-19",
-  "sha256": "6c9a7cc164345c2d7c12105d981e4fa5e46c51695cbeaa8fa9256a9c3dc41380",
+  "version": "3.0.1",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.0.1",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.0.1/Meoify-3.0.1.apk",
+  "published": "2026-11-20",
+  "sha256": "bbd6f85c493e3798679f29550ef5a731b0082df8d297fa12b27e2e3244c81577",
   "changelog": [
-    "Major 3.0.0 release.",
-    "Changelog highlights the installed version and latest release with badges."
+    "Fixed exact song selection when switching to Lossless (Hi-Res) and Standard (320 kbps).",
+    "Quality and server changes now reload the current song in place.",
+    "Faster loading with parallel track prefetch and tuned buffering.",
+    "Lyrics on/off preference now persists across restarts."
   ]
 }
