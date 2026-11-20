@@ -10,8 +10,6 @@
     "Import playlists from Spotify or YouTube Music links; Spotify songs are matched through InnerTube search.",
     "Edit profile now matches the Sign in button style.",
     "Onboarding starts with an empty display name so you can enter your own.",
-    "The app now requests the display's highest refresh rate for smoother scrolling.",
-    "Removed the crossfade setting.",
-    "Update and changelog now both read GitHub releases, so their notes always match."
+    "The app now requests the display's highest refresh rate for smoother scrolling."
   ]
 }
