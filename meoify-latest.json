@@ -1,15 +1,15 @@
 {
-  "version": "3.1.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.1.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.1.0/Meoify-3.1.0.apk",
+  "version": "3.2.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.2.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.2.0/Meoify-3.2.0.apk",
   "published": "2026-11-20",
-  "sha256": "ecdf82317297fd10b59b9488eda958fa020c38030bb3a1c2125162a636ba76d9",
+  "sha256": "50b0a28f87144d34def017a1e55915e94a9fc9df737775ab49b655da8539267a",
   "changelog": [
-    "Sign out is now a red pill and asks for confirmation.",
-    "Library + menu now offers Create playlist and Import playlist.",
-    "Import playlists from Spotify or YouTube Music links; Spotify songs are matched through InnerTube search.",
-    "Edit profile now matches the Sign in button style.",
-    "Onboarding starts with an empty display name so you can enter your own.",
-    "The app now requests the display's highest refresh rate for smoother scrolling."
+    "Home now shows every YouTube Music shelf title, plus nine personalised sections after New releases.",
+    "Library + opens a bottom sheet with Create playlist, Import playlist and Folder.",
+    "The track menu now has Remove from this playlist for local and YouTube Music playlists.",
+    "The Queue has a clear-upcoming action that keeps the current song playing.",
+    "Artwork now loads from Spotify, then Apple iTunes, then YouTube Music.",
+    "Folder is listed in the Library sheet and is coming soon."
   ]
 }
