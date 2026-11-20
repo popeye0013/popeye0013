@@ -9,6 +9,6 @@
     "Quality and server changes now reload the current song in place.",
     "Faster loading with parallel track prefetch and tuned buffering.",
     "Lyrics on/off preference now persists across restarts.",
-    "APK is now signed with the maintainer's own keystore; uninstall older debug-signed builds first."
+    "Meoify is now signed with the Meoify's own keystore; uninstall older debug-signed builds before installing the updated APK"
   ]
 }
