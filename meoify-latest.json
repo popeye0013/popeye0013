@@ -1,15 +1,16 @@
 {
-  "version": "3.3.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.3.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.3.0/Meoify-3.3.0.apk",
+  "version": "3.4.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.4.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.4.0/Meoify-3.4.0.apk",
   "published": "2026-11-20",
-  "sha256": "06a1dc70d8d6a2aba212016e472bdc485fc13fdb1b2b0ca7e6a5a71a0dba5589",
+  "sha256": "38334fa6a369f1a8995f81a9316460db1f6e54129b9bf37e817f97672a398d74",
   "changelog": [
-    "Library now has a Sort by control and grid/list toggle below the filter chips.",
-    "The Library search icon now searches inside your library instead of opening global search.",
-    "Pure black theme is no longer enabled by default.",
-    "Added Last.fm scrobbling with now-playing updates on track change and scrobbles after a qualifying listen.",
-    "Smart mixes moved to the Library + sheet with selectable mood and artist pills.",
-    "Lossless server name now suggests \"FLAC / AAC Server\"."
+    "Redesigned Settings: Scrobbling, Library and Backup & restore.",
+    "Played songs are removed from the queue and the current track stays on top.",
+    "Sort by now shows \"Recents\" and remembers your selection across restarts.",
+    "Smart mixes are created on YouTube Music when signed in.",
+    "Last.fm disconnect is now a red pill with a confirmation prompt.",
+    "Audio quality updated with Low, Normal, High, HiFi and Lossless tiers; server tiers only appear when a server is connected.",
+    "Home shelves use a consistent SongCard-style card UI."
   ]
 }
