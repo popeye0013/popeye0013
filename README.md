@@ -95,11 +95,3 @@
 </p>
 
 ---
-
-## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" />&nbsp;Loved My Work?
-
-<p align="center">
-  <a href="https://github.com/popeye0013/popeye0013/blob/main/donate/donate.md">
-    <img src="https://img.shields.io/badge/-Donate-red?logo=undertale" width="100" alt="Donate" />
-  </a>
-</p>
