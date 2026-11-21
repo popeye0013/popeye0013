@@ -1,11 +1,3 @@
-<div align="center">
-
-  <h1 align="center">
-    <img src="https://github.com/popeye0013/popeye0013/blob/main/Banner/Hhh.gif" width="120" alt="" align="middle" />
-    <img src="https://github.com/popeye0013/popeye0013/blob/main/docs/akash-title.svg" width="260" alt="Akash" align="middle" />
-  </h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=20&pause=1000&color=FF4D67&center=true&vCenter=true&width=520&lines=Android+developer;Open+source+enthusiast;Creating+bugs+since+2019" alt="Typing animation" />
 
   <p>
     <a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
