@@ -1,23 +1,4 @@
 
-  <p>
-    <a href="https://open.spotify.com/user/31x2v6m525zvzoemfu6rvg7eyide?si=cH61x2AqRSuJQQaH2Su13g">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
-    </a>
-    <a href="https://telegram.org/popeye0013">
-      <img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://instagram.com/xkx.exe">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://github.com/popeye0013">
-      <img src="https://img.shields.io/github/followers/popeye0013?style=flat&label=Followers&color=7C3AED&logo=github&logoColor=white" alt="GitHub followers" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=popeye0013&abbreviated=true&style=flat" alt="Profile views" />
-
-</div>
-
 ---
 
 ## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />&nbsp;About Me
