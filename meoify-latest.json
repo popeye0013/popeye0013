@@ -1,16 +1,15 @@
 {
-  "version": "3.4.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.4.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.4.0/Meoify-3.4.0.apk",
-  "published": "2026-11-20",
-  "sha256": "38334fa6a369f1a8995f81a9316460db1f6e54129b9bf37e817f97672a398d74",
+  "version": "3.5.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.5.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.5.0/Meoify-3.5.0.apk",
+  "published": "2026-11-21",
+  "sha256": "924aa25fbbfbbc71b1ab5ea2c6572d081d3ed53e3e938774749d30d41e095573",
   "changelog": [
-    "Redesigned Settings: Scrobbling, Library and Backup & restore.",
-    "Played songs are removed from the queue and the current track stays on top.",
-    "Sort by now shows \"Recents\" and remembers your selection across restarts.",
-    "Smart mixes are created on YouTube Music when signed in.",
-    "Last.fm disconnect is now a red pill with a confirmation prompt.",
-    "Audio quality updated with Low, Normal, High, HiFi and Lossless tiers; server tiers only appear when a server is connected.",
-    "Home shelves use a consistent SongCard-style card UI."
+    "Redesigned audio quality tiers with small spec pills (bitrate, resolution, WIFI/DATA).",
+    "Hi-Res Audio and CD Lossless stream FLAC from a connected hifi-api/Tidal server.",
+    "Standard Quality streams 320 kbps from a connected 320 kbps/HiFi server.",
+    "Auto now uses Hi-Res on Wi-Fi and a balanced stream on mobile data.",
+    "Server-only quality tiers are hidden until a server is connected, and fall back safely if it's removed.",
+    "Added a Sync section with YouTube Music history, hidden while using a Local Profile."
   ]
 }
