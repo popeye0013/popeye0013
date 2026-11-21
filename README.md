@@ -1,7 +1,7 @@
 
 ---
 
-## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />&nbsp;About Me
+## About Me
 
 **I'm Akash 🧃** — a self-proclaimed Android developer with a strong background in technology and open source.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Technologist.webp" alt="Technologist" width="25" height="25" />&nbsp;Languages &amp; Tools
+## Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" />&nbsp;Featured Project
+## Featured Project
 
 **Meoify** — a Material 3 expressive YouTube Music client with lossless audio, synced lyrics and offline playback.
 
@@ -37,7 +37,7 @@
 
 ---
 
-## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Memo.webp" alt="Memo" width="25" height="25" />&nbsp;Profile Summary Card
+## Profile Summary Card
 
 <p align="center">
   <a href="https://github.com/popeye0013">
@@ -47,7 +47,7 @@
 
 ---
 
-## <img src="https://github.com/popeye0013/popeye0013/blob/main/Emojis/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />&nbsp;Streak Stats
+## Streak Stats
 
 <p align="center">
   <a href="https://github.com/popeye0013">
