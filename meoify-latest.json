@@ -1,12 +1,20 @@
 {
-  "version": "3.5.1",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.5.1",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.5.1/Meoify-3.5.1.apk",
-  "published": "2026-11-21",
-  "sha256": "db3b5ef09645d9382d07d0babc0a3dd9285f9c9f91fbbc4b30c5d7a03e4259db",
+  "version": "3.6.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.6.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.6.0/Meoify-3.6.0.apk",
+  "published": "2026-11-22",
+  "sha256": "ccf2eee80c14abd7327c2e137b12191e4e0cad4c43e660217738bfab5a93b247",
   "changelog": [
-    "Fixed removing songs from YouTube Music playlists.",
-    "Restored live YouTube Music history sync status under the account name.",
-    "Fixed missing artwork by falling back to the track's own cover."
+    "New red equalizer app icon, animated splash screen, and notification icon.",
+    "Login and welcome screens now use the new logo.",
+    "Meoify Wrapped moved to Settings; removed from the library screen and create menu.",
+    "Wrapped stats now only count a track when it plays to completion (skips and fast-forwards no longer count).",
+    "Removed the \"Folder\" option from the create menu.",
+    "Settings tagline updated to \"Purr-fectly tuned: Spotify's flow, YouTube's catalog, and Material 3 design.\"",
+    "Default theme is now Light; dynamic color is off by default.",
+    "Removed the YouTube Music sync status line from the account section.",
+    "\"Remove from playlist\" now updates the list immediately.",
+    "Update checker now falls back to the GitHub releases feed and re-checks on app resume.",
+    "Notification icon enlarged for better visibility."
   ]
 }
