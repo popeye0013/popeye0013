@@ -1,15 +1,12 @@
 {
-  "version": "3.5.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.5.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.5.0/Meoify-3.5.0.apk",
+  "version": "3.5.1",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.5.1",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.5.1/Meoify-3.5.1.apk",
   "published": "2026-11-21",
-  "sha256": "924aa25fbbfbbc71b1ab5ea2c6572d081d3ed53e3e938774749d30d41e095573",
+  "sha256": "db3b5ef09645d9382d07d0babc0a3dd9285f9c9f91fbbc4b30c5d7a03e4259db",
   "changelog": [
-    "Redesigned audio quality tiers with small spec pills (bitrate, resolution, WIFI/DATA).",
-    "Hi-Res Audio and CD Lossless stream FLAC from a connected hifi-api/Tidal server.",
-    "Standard Quality streams 320 kbps from a connected 320 kbps/HiFi server.",
-    "Auto now uses Hi-Res on Wi-Fi and a balanced stream on mobile data.",
-    "Server-only quality tiers are hidden until a server is connected, and fall back safely if it's removed.",
-    "Added a Sync section with YouTube Music history, hidden while using a Local Profile."
+    "Fixed removing songs from YouTube Music playlists.",
+    "Restored live YouTube Music history sync status under the account name.",
+    "Fixed missing artwork by falling back to the track's own cover."
   ]
 }
