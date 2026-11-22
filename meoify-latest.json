@@ -3,7 +3,7 @@
   "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.6.0",
   "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.6.0/Meoify-3.6.0.apk",
   "published": "2026-11-22",
-  "sha256": "ccf2eee80c14abd7327c2e137b12191e4e0cad4c43e660217738bfab5a93b247",
+  "sha256": "91bf1bac0f07a547bbfc89bf155baff19284033cb0bb383fefc6d017d00d7144",
   "changelog": [
     "New red equalizer app icon, animated splash screen, and notification icon.",
     "Login and welcome screens now use the new logo.",
