@@ -1,20 +1,12 @@
 {
-  "version": "3.6.0",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.6.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.6.0/Meoify-3.6.0.apk",
-  "published": "2026-11-22",
-  "sha256": "91bf1bac0f07a547bbfc89bf155baff19284033cb0bb383fefc6d017d00d7144",
+  "version": "3.6.1",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.6.1",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.6.1/Meoify-3.6.1.apk",
+  "published": "2026-11-23",
+  "sha256": "440b280f21f38c6203a2a12ccb539e7b41d2843326ce9ef895b636984e6e3d13",
   "changelog": [
-    "New red equalizer app icon, animated splash screen, and notification icon.",
-    "Login and welcome screens now use the new logo.",
-    "Meoify Wrapped moved to Settings; removed from the library screen and create menu.",
-    "Wrapped stats now only count a track when it plays to completion (skips and fast-forwards no longer count).",
-    "Removed the \"Folder\" option from the create menu.",
-    "Settings tagline updated to \"Purr-fectly tuned: Spotify's flow, YouTube's catalog, and Material 3 design.\"",
-    "Default theme is now Light; dynamic color is off by default.",
-    "Removed the YouTube Music sync status line from the account section.",
-    "\"Remove from playlist\" now updates the list immediately.",
-    "Update checker now falls back to the GitHub releases feed and re-checks on app resume.",
-    "Notification icon enlarged for better visibility."
+    "Splash screen now follows Material You dynamic color when enabled, including the three equalizer bars.",
+    "Offline state now reads \"You're Offline\" with a clearer reconnect message.",
+    "Fixed the Wrapped section icon alignment in Settings."
   ]
 }
