@@ -1,12 +1,17 @@
 {
-  "version": "3.6.1",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.6.1",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.6.1/Meoify-3.6.1.apk",
-  "published": "2026-11-23",
-  "sha256": "440b280f21f38c6203a2a12ccb539e7b41d2843326ce9ef895b636984e6e3d13",
+  "version": "3.7.0",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.7.0",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.7.0/Meoify-3.7.0.apk",
+  "published": "2026-11-24",
+  "sha256": "9629dac197f1b06ea076436719824d561357ea122df8067e3d3b504d7451d0e8",
   "changelog": [
-    "Splash screen now follows Material You dynamic color when enabled, including the three equalizer bars.",
-    "Offline state now reads \"You're Offline\" with a clearer reconnect message.",
-    "Fixed the Wrapped section icon alignment in Settings."
+    "Offline downloads with a pause/resume queue, bulk album and playlist saves, tracked playlists, retained artwork and local-file playback.",
+    "Download notifications are quieter: one song saves silently, while a playlist chimes once when every song finishes; stuck progress notices are gone.",
+    "Settings now shows live saved-storage and in-progress download counts.",
+    "Now Playing Quick Actions replace Queue with Add to playlist.",
+    "Add to playlist is now a card-style sheet with real playlist covers and a keyboard-friendly New playlist field.",
+    "Listen Together shows host and friend names and avatars from YouTube Music or the local profile.",
+    "YouTube Music playlist imports now accept browse links, mixes and bare IDs as well as standard playlist links.",
+    "Pure black now works with dynamic color, and the downloaded badge and signed-in Sync section behave as before."
   ]
 }
