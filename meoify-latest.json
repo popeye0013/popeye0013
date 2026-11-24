@@ -1,9 +1,9 @@
 {
   "version": "3.7.1",
-  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.7.0",
-  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.7.0/Meoify-3.7.0.apk",
+  "release_url": "https://github.com/popeye0013/Meoify/releases/tag/v3.7.1",
+  "apk_url": "https://github.com/popeye0013/Meoify/releases/download/v3.7.1/Meoify-3.7.1.apk",
   "published": "2026-11-24",
-  "sha256": "9629dac197f1b06ea076436719824d561357ea122df8067e3d3b504d7451d0e8",
+  "sha256": "61490283917bd39968a1bbebbcc411ebfb28afb7c0dc7a4544b0b764693df000",
   "changelog": [
     "Offline downloads with a pause/resume queue, bulk album and playlist saves, tracked playlists, retained artwork and local-file playback.",
     "Now Playing Quick Actions replace Queue with Add to playlist.",
