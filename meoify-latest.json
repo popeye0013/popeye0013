@@ -10,6 +10,8 @@
     "Add to playlist is now a card-style sheet with real playlist covers and inline playlist creation.",
     "Listen Together shows host and friend names and avatars from YouTube Music or the local profile.",
     "YouTube Music playlist imports now accept browse links, mixes and bare IDs as well as standard playlist links.",
-    "Pure black now applies when dynamic color is enabled."
+    "Pure black now applies when dynamic color is enabled.",
+    "Fixed the automatic update popup so a published release is detected on launch again, without opening Settings → Check for updates."
+    
   ]
 }
