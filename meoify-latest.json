@@ -6,8 +6,6 @@
   "sha256": "9629dac197f1b06ea076436719824d561357ea122df8067e3d3b504d7451d0e8",
   "changelog": [
     "Offline downloads with a pause/resume queue, bulk album and playlist saves, tracked playlists, retained artwork and local-file playback.",
-    "Download notifications stay quiet while a song saves and play once when a whole playlist finishes.",
-    "Settings now shows live saved-storage and in-progress download counts.",
     "Now Playing Quick Actions replace Queue with Add to playlist.",
     "Add to playlist is now a card-style sheet with real playlist covers and inline playlist creation.",
     "Listen Together shows host and friend names and avatars from YouTube Music or the local profile.",
