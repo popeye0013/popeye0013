@@ -63,7 +63,7 @@
 
 ## Featured Project
 
-**Meoify** — a Material 3 expressive YouTube Music client with lossless audio, synced lyrics and offline playback.
+**Meoify** — Purr-fectly tuned: Spotify’s flow, YouTube’s catalog, and Material 3 design.
 
 <p align="center">
   <a href="https://github.com/popeye0013/Meoify/releases/latest">
