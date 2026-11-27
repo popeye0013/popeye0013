@@ -21,7 +21,7 @@
 
 ## Styling
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=10" alt="My skills" />
   </a>
@@ -29,7 +29,7 @@
 
 ## Databases & Data
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,mongodb&theme=dark&perline=10" alt="My skills" />
   </a>
@@ -37,7 +37,7 @@
 
 ## DevOps & Cloud
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=netlify,cloudflare,github,vercel&theme=dark&perline=10" alt="My skills" />
   </a>
@@ -45,7 +45,7 @@
 
 ## Platforms
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscodium&theme=dark&perline=10" alt="My skills" />
   </a>
@@ -53,7 +53,7 @@
 
 ## OS
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,windows&theme=dark&perline=10" alt="My skills" />
   </a>
