@@ -99,3 +99,6 @@
 </p>
 
 ---
+
+## Buy me a chai
+[![Buy Me a Chai](https://img.shields.io/badge/☕-Buy_Me_a_Chai-C4622D?style=for-the-badge)](https://buymeachai.in/xkxexe)
