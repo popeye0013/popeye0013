@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,py,js&theme=dark&perline=10" alt="My skills" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,html,css,firebase,mongodb,netlify,cloudflare,github,vercel,androidstudio,vscodium,ubundu,windows&theme=dark&perline=10" alt="My skills" />
   </a>
 </p>
 
