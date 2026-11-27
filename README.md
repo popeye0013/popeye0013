@@ -10,7 +10,8 @@
 - **Creating bugs** since 2019
 - **Free time:** solving problems on GeeksforGeeks and reading tech articles
 
-----–––
+---
+
 ## Languages
 
 <p align="left">
