@@ -1,6 +1,3 @@
-
----
-
 ## About Me
 
 **I'm Akash 🧃** — a self-proclaimed Android developer with a strong background in technology and open source.
@@ -10,7 +7,6 @@
 - **Creating bugs** since 2019
 - **Free time:** solving problems on GeeksforGeeks and reading tech articles
 
----
 
 ## Languages
 
