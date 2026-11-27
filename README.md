@@ -10,13 +10,52 @@
 - **Creating bugs** since 2019
 - **Free time:** solving problems on GeeksforGeeks and reading tech articles
 
----
-
-## Tools
+----–––
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,kotlin,py,ubuntu,vscodium&theme=dark&perline=10" alt="My skills" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,js&theme=dark&perline=10" alt="My skills" />
+  </a>
+</p>
+
+## Styling
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=10" alt="My skills" />
+  </a>
+</p>
+
+## Databases & Data
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb&theme=dark&perline=10" alt="My skills" />
+  </a>
+</p>
+
+## DevOps & Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,cloudflare,github,vercel&theme=dark&perline=10" alt="My skills" />
+  </a>
+</p>
+
+## Platforms
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscodium&theme=dark&perline=10" alt="My skills" />
+  </a>
+</p>
+
+## OS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows&theme=dark&perline=10" alt="My skills" />
   </a>
 </p>
 
