@@ -67,10 +67,10 @@
 
 <p align="center">
   <a href="https://github.com/popeye0013/Meoify/releases/latest">
-    <img src="https://img.shields.io/badge/Download-APK-FF4D67?style=flat&logo=android&logoColor=white" alt="Download Meoify" />
+    <img src="https://img.shields.io/badge/Download-APK-FF4D67?style=for-the-badge&logo=android&logoColor=white" alt="Download Meoify" />
   </a>
   <a href="https://github.com/popeye0013/Meoify">
-    <img src="https://img.shields.io/github/stars/popeye0013/Meoify?style=flat&color=7C3AED&logo=github&logoColor=white" alt="Meoify stars" />
+    <img src="https://img.shields.io/github/stars/popeye0013/Meoify?style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Meoify stars" />
   </a>
 </p>
 
